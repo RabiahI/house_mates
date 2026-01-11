@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "875474100206",
+    "firebase_url": "https://house-mates-40db4-default-rtdb.firebaseio.com",
+    "project_id": "house-mates-40db4",
+    "storage_bucket": "house-mates-40db4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875474100206:android:175458298ae4a4cc3678ff",
+        "android_client_info": {
+          "package_name": "com.example.house_mates"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUSB8srY2KHH-UvXaU9mg2Xdw17zTiW6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
